@@ -4,4 +4,4 @@ This repository is for my experiments with (ServerSpec)[http://serverspec.org/].
 
 ## License
 
-(MIT)[https://opensource.org/licenses/MIT]
+[MIT](https://opensource.org/licenses/MIT)
